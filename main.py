@@ -1,4 +1,4 @@
-LINE = "Monday gets one star. The coffee was weak, the meetings were strong, and the weekend left without saying goodbye."
+LINE = "One star. Arrived at 9:00 to 214 unread emails, three 'quick syncs,' and a calendar invite titled 'Pre-Meeting for the Meeting.'"
 
 
 def validated_line() -> str:
